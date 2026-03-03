@@ -5,7 +5,8 @@
       "namespace": "android_app",
       "package_name": "com.preventura.app.admin.dev",
       "sha256_cert_fingerprints": [
-        "72:44:C0:E8:A6:8B:93:1F:7E:C7:A7:7E:55:2F:D0:FC:94:A8:46:6A:E1:81:2F:4E:EA:FA:75:04:7E:9A:E7:9D"
+        "72:44:C0:E8:A6:8B:93:1F:7E:C7:A7:7E:55:2F:D0:FC:94:A8:46:6A:E1:81:2F:4E:EA:FA:75:04:7E:9A:E7:9D",
+        "60:3F:91:D6:0F:1E:10:7E:82:56:79:F4:B9:AE:FC:81:36:E3:90:42:76:C8:E4:8F:AF:57:53:E3:5C:E6:A3:63"
       ]
     }
   },
@@ -15,7 +16,8 @@
       "namespace": "android_app",
       "package_name": "com.preventura.app.admin",
       "sha256_cert_fingerprints": [
-        "72:44:C0:E8:A6:8B:93:1F:7E:C7:A7:7E:55:2F:D0:FC:94:A8:46:6A:E1:81:2F:4E:EA:FA:75:04:7E:9A:E7:9D"
+        "72:44:C0:E8:A6:8B:93:1F:7E:C7:A7:7E:55:2F:D0:FC:94:A8:46:6A:E1:81:2F:4E:EA:FA:75:04:7E:9A:E7:9D",
+        "60:3F:91:D6:0F:1E:10:7E:82:56:79:F4:B9:AE:FC:81:36:E3:90:42:76:C8:E4:8F:AF:57:53:E3:5C:E6:A3:63"
       ]
     }
   },
@@ -25,7 +27,8 @@
       "namespace": "android_app",
       "package_name": "com.preventura.app.dev",
       "sha256_cert_fingerprints": [
-        "72:44:C0:E8:A6:8B:93:1F:7E:C7:A7:7E:55:2F:D0:FC:94:A8:46:6A:E1:81:2F:4E:EA:FA:75:04:7E:9A:E7:9D"
+        "72:44:C0:E8:A6:8B:93:1F:7E:C7:A7:7E:55:2F:D0:FC:94:A8:46:6A:E1:81:2F:4E:EA:FA:75:04:7E:9A:E7:9D",
+        "60:3F:91:D6:0F:1E:10:7E:82:56:79:F4:B9:AE:FC:81:36:E3:90:42:76:C8:E4:8F:AF:57:53:E3:5C:E6:A3:63"
       ]
     }
   },
@@ -35,7 +38,8 @@
       "namespace": "android_app",
       "package_name": "com.preventura.app",
       "sha256_cert_fingerprints": [
-        "72:44:C0:E8:A6:8B:93:1F:7E:C7:A7:7E:55:2F:D0:FC:94:A8:46:6A:E1:81:2F:4E:EA:FA:75:04:7E:9A:E7:9D"
+        "72:44:C0:E8:A6:8B:93:1F:7E:C7:A7:7E:55:2F:D0:FC:94:A8:46:6A:E1:81:2F:4E:EA:FA:75:04:7E:9A:E7:9D",
+        "60:3F:91:D6:0F:1E:10:7E:82:56:79:F4:B9:AE:FC:81:36:E3:90:42:76:C8:E4:8F:AF:57:53:E3:5C:E6:A3:63"
       ]
     }
   }
