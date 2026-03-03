@@ -1,1 +1,23 @@
-
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "PUT_TEAM_ID_HERE.com.preventura.app.admin",
+        "paths": ["/auth/admin/*"]
+      },
+      {
+        "appID": "PUT_TEAM_ID_HERE.com.preventura.app.admin.dev",
+        "paths": ["/auth/admin/*"]
+      },
+      {
+        "appID": "PUT_TEAM_ID_HERE.com.preventura.app",
+        "paths": ["/auth/user/*"]
+      },
+      {
+        "appID": "PUT_TEAM_ID_HERE.com.preventura.app.dev",
+        "paths": ["/auth/user/*"]
+      }
+    ]
+  }
+}
